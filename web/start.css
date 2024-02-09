@@ -1,0 +1,58 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 09-Feb-2024, 7:23:57 pm
+    Author     : ISHA MISTRY
+*/
+
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+    background-color:#baebec;
+}
+#head{
+    text-align: center;
+    background-color: #baebec;
+    color: brown;
+    font-size: 2rem;
+}
+.form_cont{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+}
+
+.formc{
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+    background-color: white;
+    height:15rem;
+    width:30rem;
+    border-radius: 5px;
+    padding:10px;
+    margin:10px;
+}
+.input_box{
+    height:2rem;
+    width:15rem;
+    border-width: 2px;
+    border-radius: 2px;
+}
+.btn{
+    color:#baebec;
+    background-color: brown;
+    color: white;
+    font-size: 1rem;
+    padding:5px;
+    margin:5px;
+}
+
+
+
